@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidgwong.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning modern web development (The Odin Project and SecureFlag secure coding) and reviewing data structures and algorithms.
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: https://www.linkedin.com/in/davidgwong/
 
